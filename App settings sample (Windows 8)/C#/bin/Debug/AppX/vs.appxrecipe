@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ORANGE-LAPTOP</Machine>
+    <WindowsUser>v-tobyqi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F89E9B4CCE1AA8A1EFAF0FF924AF3A6C5D0B564B49D479949F0202F03D8B1789</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.ApplicationSettings.CS_1.0.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.ApplicationSettings.CS_8wekyb3d8bbwe!ApplicationSettings.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.ApplicationSettings.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-22T02:07:21.022</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\ApplicationSettings.exe">
+      <PackagePath>ApplicationSettings.exe</PackagePath>
+      <Modified>2013-08-22T02:07:20.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\ApplicationSettings.pdb">
+      <PackagePath>ApplicationSettings.pdb</PackagePath>
+      <Modified>2013-08-22T02:07:20.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2013-08-21T09:30:14.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2013-08-21T09:30:14.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\smallTile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-21T09:30:14.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-21T09:30:14.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\squareTile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-21T09:30:14.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\storeLogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-21T09:30:14.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2013-08-21T09:30:14.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\Assets\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2013-08-21T09:30:14.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:13.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\SettingsFlyout.xaml">
+      <PackagePath>SettingsFlyout.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:14.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\SettingsFlyoutScenario.xaml">
+      <PackagePath>SettingsFlyoutScenario.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:14.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\Sample-Utils\SampleTemplateStyles.xaml">
+      <PackagePath>Sample-Utils\SampleTemplateStyles.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:14.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\AddSettingsScenario.xaml">
+      <PackagePath>AddSettingsScenario.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:13.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\DefaultScenario.xaml">
+      <PackagePath>DefaultScenario.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:14.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:14.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-08-21T09:30:14.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\Windows 8 app samples C#\App settings sample %28Windows 8%29\C#\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-22T02:07:20.802</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+C:\Dev\Windows 8 app samples C#\App settings sample (Windows 8)\C#\ApplicationSettings.csproj;neutral
